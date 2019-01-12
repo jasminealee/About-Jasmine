@@ -13,7 +13,6 @@ This is my first independent project. It is the first of my portfolio with the i
 * CSS
 * TERMINAL
 * ATOM
-*
 
 
 ## Known Bugs
