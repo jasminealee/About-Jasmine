@@ -24,3 +24,7 @@ float: none;
   border: 20px gray;
   margin: 10px
 }
+
+.red {
+  color: red;
+}
