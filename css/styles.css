@@ -1,30 +1,50 @@
-
 body {
-  background-color:pink;
-  width: 400 px;
-  border: 400 px red;
+  background-color: pink;
+  width: 400px;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+  float: none;
+}
+
+.box {
+  padding: 5px;
+  border-width: 3px;
+  border: solid black;
+  margin: 15px;
+  height: 910px;
 }
 
 .sidebar {
   text-align: center;
-  float: center;
-
-}
-h1 {
-text-align: center;
-}
-h2 {
-text-align: left;
-float: none;
+  float: left;
 }
 
-.box {
-  width: 1200px;
-  padding: 20px;
-  border: 20px gray;
-  margin: 10px
+#green-bold {
+  color: green;
+  font-weight: bold;
 }
 
-.red {
-  color: red;
+#name {
+  padding: 8px;
+  border-width: 15px;
+  border: solid black;
+  margin: 15px;
+  font-weight: bold;
+  color: magenta;
+}
+
+.well {
+  height: 892px;
+}
+
+.color {
+  color: green;
+  font-weight: bold;
 }
