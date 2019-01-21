@@ -18,12 +18,12 @@ h2 {
   border-width: 3px;
   border: solid black;
   margin: 15px;
-  height: 910px;
+  height: 970px;
 }
 
 .sidebar {
   text-align: center;
-  float: left;
+  float: none;
 }
 
 #green-bold {
@@ -41,7 +41,7 @@ h2 {
 }
 
 .well {
-  height: 892px;
+  height: 955px;
 }
 
 .color {
